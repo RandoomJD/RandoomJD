@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
-  - 🖥 [2020-site](https://github.com/UoYMathSoc/2020-site), the website for the University of York Mathematics Society, written in [Go](https://golang.org/).
+- 🎓 I’m currently in the final year of a Master's degree in Pure Mathematics at the University of York.
+- 🖥 I’m currently working on [2020-site](https://github.com/UoYMathSoc/2020-site), the website for the University of York Mathematics Society, written in [Go](https://golang.org/).
 
 <!--
 **RandoomJD/RandoomJD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
