@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🎓 I’m currently in the second year of a PhD in Geometry of Numbers at the University of Liverpool.
+- 🎓 I’m currently in the final year of a PhD in Geometry of Numbers at the University of Liverpool.
 - 🖥 I’m currently working on
-migrating the radio output system at [Liverpool Guild Student Media](https://www.liverpoolguildstudentmedia.co.uk/) over to the [myradio](https://github.com/UniversityRadioYork/myradio) ecosystem.
+reworking [LGSM](https://www.liverpoolguildstudentmedia.co.uk/)'s [myradio](https://github.com/UniversityRadioYork/myradio) instance to allow prereording of shows.
 <!-- [2020-site](https://github.com/UoYMathSoc/2020-site), the website for the University of York Mathematics Society, written in  [Go](https://golang.org/). -->
 
 <!--
